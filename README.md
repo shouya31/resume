@@ -53,10 +53,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shouya31&show_icons=true&hide_border=true&line_height=24" alt="Shouya's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouya31&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
 
 ---
