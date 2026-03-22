@@ -2,12 +2,13 @@
 
 ## 概要
 - フロントエンドエンジニア経験: 2〜3年
-- バックエンドエンジニア経験: 3〜5年
+- バックエンドエンジニア経験: 3〜4年
 - プロダクトマネージャー経験: 1〜2年
+- ディレクション経験: 1~2年（PM/ディレクション含む）
 
 ## スキル
 - **Backend:** Ruby , Ruby on Rails , Node.js, Express, PostgreSQL, Prisma
-- **Frontend:** TypeScript, React, Next.js, JavaScript, React Native
+- **Frontend:** TypeScript, React, Next.js, JavaScript
 - **Infrastructure/Others:** AWS（EC2、ECS、CloudWatch、IAM）, Heroku, Docker, Firebase, GitHub
 
 ---
@@ -17,8 +18,8 @@
 ### アセンド株式会社 (2025年08月 - 現在)
 **役割:** プロダクトエンジニア
 **事業内容:** 物流業界向けマルチテナントSaaS（労務管理ドメイン）
-**利用技術:** TypeScript, React, Next.js, Express, PostgreSQL, Prisma, React Native, AWS（EC2、ECS、CloudWatch、IAM）、Kubernetes、Argo CD
-**開発環境:** モノレポ構成
+**利用技術:** TypeScript, React, Next.js, Express, PostgreSQL, Prisma, AWS（EC2, ECS, CloudWatch, IAM）
+**開発環境:** モノレポ構成 / デプロイ基盤: Kubernetes, Argo CD
 
 **主な業務・実績:**
 - **SaaSドメインモデリングとフルスタック開発:**
@@ -62,13 +63,14 @@
 - **技術的負債の解消とチーム開発環境の整備:** 外部エンジニアの参画に向け、頻出箇所を中心にコードのリファクタリングを実施し、ドメイン知識がなくても開発に着手できる環境を整備。
 
 ### フリーランス / 業務委託 (2021年05月 - 2023年10月)
+※ 株式会社インディバースとの兼業期間あり（2022年01月〜2023年10月）
 **役割:** フルスタックエンジニア
 **参画先:** freee株式会社（旧Why株式会社）、株式会社ジンジャーアップなど
 **チーム規模:** 1-10人
 **利用技術:** Ruby on Rails, TypeScript, React
 
 **主な業務・実績:**
-- SaaSアカウント管理の自動化ツールのフロントエンドおよびバックエンド開発を実装担当として遂行。
+- SaaSアカウント管理の自動化ツールにおいて、フロントエンドおよびバックエンドの設計・実装を担当。Ruby on RailsによるAPI開発とReactによる管理画面の構築を遂行。
 
 ### 株式会社div (2018年03月 - 2021年05月)
 **役割:** プロジェクトマネージャー
